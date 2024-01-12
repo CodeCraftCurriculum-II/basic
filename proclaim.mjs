@@ -1,1 +1,0 @@
-console.log("Git contribution made");
