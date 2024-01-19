@@ -248,3 +248,8 @@ A Haiku I wrote
 On a Friday so frosty
 Weekend now no code
 - Erlend
+
+Five syllables here
+Seven more Syllables there
+Are you happy now?
+- Filip
