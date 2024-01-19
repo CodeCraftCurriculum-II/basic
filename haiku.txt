@@ -33,11 +33,6 @@ Erase again, and then
 A poppy blooms.
 - Benjamin
 
-TF2 is sweet,
-L. o. L. is salty,
-Valve triumphs riot,
-- Daniel
-
 This is difficult,
 my head is spinning alot,
 will I ever succeed?
@@ -248,6 +243,11 @@ Laying in my bed
 writing a haiku on git
 should've had dark mode
 -Simon H
+
+TF2 is sweet,
+L. o. L. is salty,
+Valve triumphs riot,
+- Daniel
 
 A Haiku I wrote
 On a Friday so frosty
