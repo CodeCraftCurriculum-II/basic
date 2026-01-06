@@ -248,3 +248,8 @@ A Haiku I wrote
 On a Friday so frosty
 Weekend now no code
 - Erlend
+
+Snowing today.
+Driving through the snow.
+Hm! programming today.
+-Solomon
