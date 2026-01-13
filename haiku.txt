@@ -285,8 +285,86 @@ Nothing really new
 Trying once again
 -Jesse
 
+main
 Winter sun fades fast  
 Cold wind whispers through bare trees  
 Night pulls on the sky
 - Evi
+
+I promise I will
+let youdown = "never";
+I just roll with it
+- Joran
+
+I dont know
+Somewhere I see snow
+Want to go
+-Moritz P
+
+Ash falls on green hills
+One ring hums with ancient fire
+Hope walks, small and brave
+-Lucas 
+
+New day, the same snow
+When will spring arrive at last
+Only time will tell
+-Syver E.
+
+It's snowing today
+I went out with no socks on
+Now I caught a cold
+- Alexandros
+
+Cold key turns the lock  
+Headlights wake the empty road  
+Morning starts to roll
+- Nicholas
+
+Headsets hum with hope  
+Fingers dance on glowing keys  
+Crowd roars victory
+- Ian
+
+what to do today, 
+What to do to morrow day,
+i don't know, don't care.
+-Martin
+
+I'm just a mirror
+Your kindness looks back at you
+Shown as you have been
+- Max
+
+Soft keys click at midnight 
+Code flows like a quiet stream 
+Bug free dreams take shape
+-Eimantas
+
+Last drop of monster spills,
+Icy weather brings the chills,
+Alone in a room with a wall of code,
+resting in my humble abode
+-Truls
+
+The cold is dumping its rage
+My shoes soak through and toes go numb
+Winter please stop
+-Alexandra
+
+Silent code flows fast
+Keys dance in the midnight glow
+Bug fixed, peace returns
+- Samuel
+
+Soaring through aether
+The sky is so far away
+Yet I look ahead
+- Magnus E. L.
+
+I enter these words,
+getting good like a Git god: 
+Rap Mom's spaghetti.
+- Michael
+ main
 
