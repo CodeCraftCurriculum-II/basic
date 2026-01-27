@@ -1,3 +1,9 @@
+Morning fog drifts slow
+Sunlight slips through silent trees
+Dew wakes the soft earth
+- Evi
+
+
 Your program brok,
 as cold and frail as winter
 your bad code is.
@@ -279,6 +285,12 @@ Nothing really new
 Trying once again
 -Jesse
 
+main
+Winter sun fades fast  
+Cold wind whispers through bare trees  
+Night pulls on the sky
+- Evi
+
 I promise I will
 let youdown = "never";
 I just roll with it
@@ -364,4 +376,5 @@ I enter these words,
 getting good like a Git god: 
 Rap Mom's spaghetti.
 - Michael
+ main
 
